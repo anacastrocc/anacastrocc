@@ -1,9 +1,10 @@
 ### Olá! Eu sou Ana Castro. 👋
 
 
-- 🔭 Sou estagiária da Unidade de Relacionamento do Sebrae/AL. 
-- 🌱 Tenho como objetivo integrar minha carreira em administração com Análise de Dados, combinando o melhor dos dois mundos: a eficiência analítica e a visão estratégica.
-- 👯 Atualmente, sou graduanda em Administração, entusiasta por tecnologia e inovação.
+- 🔭 Sou estagiária da Unidade de Relacionamento do Sebrae/AL.
+- 👨‍💻 Graduanda em Administração.
+- 🌱 Tenho como objetivo combinar o melhor dos dois mundos: a eficiência analítica e a visão estratégica.
+- 👯 Entusiasta por tecnologia e inovação.
 - 📫 Contate-me: anaclaudia.castro187@gmail.com
 
 
