@@ -2,8 +2,8 @@
 
 
 - 🔭 Sou estagiária da Unidade de Relacionamento do Sebrae/AL. 
-- 🌱 Estou começando a estudar programação. Ainda sou iniciante. 
-- 👯 Atualmente, estou procurando mudar de carreira e me encontrar na área de tecnologia.
+- 🌱 Tenho como objetivo integrar minha carreira em administração com Análise de Dados, combinando o melhor dos dois mundos: a eficiência analítica e a visão estratégica.
+- 👯 Atualmente, sou graduanda em Administração, entusiasta por tecnologia e inovação.
 - 📫 Contate-me: anaclaudia.castro187@gmail.com
 
 
